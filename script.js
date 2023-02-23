@@ -1,5 +1,5 @@
 
-"use strict";
+"use strictm";
 
 let ans = 0;
 const btn = document.querySelector(".submitInput");
