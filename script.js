@@ -4,7 +4,7 @@
 let ans = 0;
 const btn = document.querySelector(".submitInput");
 
-//function
+//function 
 
 function showResult(event) {
   const values = document.querySelector(".textInput").value;
